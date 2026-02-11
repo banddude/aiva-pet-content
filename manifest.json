@@ -1,5 +1,6 @@
 {
-  "version": 1,
+  "version": 2,
+  "cartoon": "cartoon.json",
   "packs": [
     {
       "id": "valentines",

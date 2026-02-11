@@ -1,6 +1,8 @@
 {
-  "version": 2,
+  "version": 3,
+  "intro": "intro.json",
   "cartoon": "cartoon.json",
+  "music": "music.json",
   "packs": [
     {
       "id": "valentines",

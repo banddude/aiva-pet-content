@@ -1,10 +1,10 @@
 {
   "id": "default-intro",
-  "version": 1,
+  "version": 2,
   "name": "Skateboard Kickflip Intro",
   "greeting": "Hi there!",
   "greeting_expression": "happy",
-  "greeting_duration": 1.0,
+  "greeting_duration": 3.0,
   "delay": 0.3,
   "js": "bunny.facingRight = true; if (!bunny.hasSkateboard) toggleSkateboard(); bunny.introMode = true; bunny.introWraps = 0; startKickflip();"
 }

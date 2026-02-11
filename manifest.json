@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "valentines",
+      "name": "Valentine's Day",
+      "version": 1,
+      "file": "packs/valentines.json",
+      "active_from": "02-01",
+      "active_until": "02-28"
+    }
+  ]
+}

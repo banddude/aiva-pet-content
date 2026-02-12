@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "intro": "intro.json",
   "cartoon": "cartoon.json",
   "music": "music.json",
@@ -11,6 +11,12 @@
       "file": "packs/valentines.json",
       "active_from": "02-01",
       "active_until": "02-28"
+    },
+    {
+      "id": "swimming",
+      "name": "Swimming",
+      "version": 1,
+      "file": "packs/swimming.json"
     }
   ]
 }
